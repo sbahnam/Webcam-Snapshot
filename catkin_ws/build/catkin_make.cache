@@ -1,0 +1,2 @@
+webcam_snapshot
+-DCATKIN_DEVEL_PREFIX=/home/stavrow/Webcam-Snapshot/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/stavrow/Webcam-Snapshot/catkin_ws/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/stavrow/Webcam-Snapshot/catkin_ws/install
+
+Name: webcam_snapshot
+Description: Description of webcam_snapshot
+Version: 0.0.0
+Cflags: -I/home/stavrow/Webcam-Snapshot/catkin_ws/install/include
+Libs: -L/home/stavrow/Webcam-Snapshot/catkin_ws/install/lib 
+Requires: 
